@@ -4,7 +4,7 @@ createApp({
     data(){
         return{
             message: 'Hello World',
-            image:'https://picsum.photos/id/684/600/400'
+            path:'https://picsum.photos/id/684/600/400'
         }
     }
 }).mount('#app')
